@@ -1,0 +1,175 @@
+html {
+	background: url("http://data.nimages.fr/wallpaper29356273t8.jpg") center center fixed;
+	background-size: cover;
+}
+
+body {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+	font-family: calibri;
+}
+
+h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    text-decoration: underline;
+    color: #404040;
+}
+
+.carttab {
+	text-align: right;
+}
+
+a.headerinf {
+    font-size: 12px;
+    line-height: 20px;
+    margin-left: 10px;
+}
+
+a.footerinf {
+    font-size: 12px;
+	margin-left: 30px;
+}
+
+.qty {
+	width: 30px;
+	margin-right: 10px;
+}
+
+.transparent {
+	background: rgba(255, 255, 220, 0.5);
+}
+
+#adm_shop {
+	position: relative;
+	float: left;
+}
+
+#adm_users {
+	position: absolute;
+	margin-left: 370px;
+}
+
+#adm_orders{
+	position: relative;
+	float: right;
+	margin-right: 30px;
+}
+
+#loguser {
+    font-size: 12px;
+    line-height: 20px;
+    margin-left: 10px;
+}
+
+#header {
+    border: 2px solid gray;
+    height: 150px;
+    border-radius: 10px;
+}
+
+#account {
+    border: 2px solid gray;
+    border-radius: 5px;
+    position: relative;
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;
+    width: 175px;
+    height: 100px;
+}
+
+#msgbox {
+    display: block;
+    border: 2px solid gray;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 370px;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+}
+
+#msgtxt {
+    display: block;
+    margin-top: 20px;
+    color: green;
+}
+
+#basket {
+    border: 2px solid gray;
+    border-radius: 5px;
+    position: relative;
+    float: right;
+    margin-right: 50px;
+    margin-top: 25px;
+    width: 175px;
+    height: 100px;
+}
+
+#b_art {
+    display: block;
+    font-size: 12px;
+    margin-left: 15px;
+    margin-bottom: 0px;
+}
+
+#cart_empty {
+	display: block;
+	font-size: 14px;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+
+#content {
+    border: 2px solid gray;
+    border-radius: 10px;
+    position: relative;
+    float: center;
+    width: 100%;
+    margin-top: 20px;
+    height: 670px;
+}
+
+#footer {
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 100%;
+    height: 70px;
+	padding-top: 15px;
+}
+
+.center {
+    display: block;
+    text-align: center;
+}
+
+.article {
+	font-size: 17px;
+	margin-left: 0px;
+}
+
+.desc {
+	font-size: 17px;
+	margin-left: 20px;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+td {
+	width: 20%;
+}
+
+table {
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 95%;
+}
